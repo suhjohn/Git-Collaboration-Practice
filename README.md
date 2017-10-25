@@ -4,4 +4,4 @@
 
 ### Practicing merging / pulling requests with collaborators.
 
-Contributors: Suh John, Mark Kim
+Contributors: Sir John, Mark Kim
